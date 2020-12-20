@@ -1,0 +1,35 @@
+[33mcommit f66d3ef5dbc5bbedf9622e2d28ca370b16fbb1c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Abdulrafay <abdulrafayn001@gmail.com>
+Date:   Mon Dec 21 00:22:35 2020 +0500
+
+    Background image imported
+
+[33mcommit 746abb62c1c81acd782578b73ca8330b71d5b80b[m
+Author: Abdulrafay <abdulrafayn001@gmail.com>
+Date:   Mon Dec 21 00:17:05 2020 +0500
+
+    Add Style to text in TextViews
+
+[33mcommit a28e8d190ef2b9f27d53f37b0be04efa1bb552c5[m
+Author: Abdulrafay <abdulrafayn001@gmail.com>
+Date:   Mon Dec 21 00:02:20 2020 +0500
+
+    Add two TextViews
+
+[33mcommit 8a5b8b771483f4ded1e6ae4b10f9cc5cfa305275[m
+Author: Abdulrafay <abdulrafayn001@gmail.com>
+Date:   Sun Dec 20 23:47:42 2020 +0500
+
+    Delete TextView with text Happy Birthday!
+
+[33mcommit c0c89d91789c6954627210405e0503497bb17497[m
+Author: Abdulrafay <abdulrafayn001@gmail.com>
+Date:   Sun Dec 20 23:45:33 2020 +0500
+
+    Change Hello World to Happy Birthday
+
+[33mcommit 4bd0914040fa200d5cf5b630d39527a5240e5610[m
+Author: Abdulrafay <abdulrafayn001@gmail.com>
+Date:   Sun Dec 20 23:16:07 2020 +0500
+
+    Create Android Project
